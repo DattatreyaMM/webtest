@@ -10,8 +10,4 @@ public class App
     {
         System.out.println( "Hello World from Dattatreya and team!" );
     }
-
-	public int calculateSomething() {
-		return 0;
-	}
 }
